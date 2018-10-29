@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/collections-examples/collections-examples.iml" filepath="$PROJECT_DIR$/collections-examples/collections-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/locks-synchronizers-examples/locks-synchronizers-examples.iml" filepath="$PROJECT_DIR$/locks-synchronizers-examples/locks-synchronizers-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objects-examples/objects-examples.iml" filepath="$PROJECT_DIR$/objects-examples/objects-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redisson-examples.iml" filepath="$PROJECT_DIR$/redisson-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/services-examples/services-examples.iml" filepath="$PROJECT_DIR$/services-examples/services-examples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topic-examples/topic-examples.iml" filepath="$PROJECT_DIR$/topic-examples/topic-examples.iml" />
+    </modules>
+  </component>
+</project>

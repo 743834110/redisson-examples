@@ -66,6 +66,7 @@ public class SchedulerServiceExamples {
         
         RedissonClient redisson = Redisson.create(config);
 
+
         RedissonNodeConfig nodeConfig = new RedissonNodeConfig(config);
         nodeConfig.setExecutorServiceWorkers(Collections.singletonMap("myExecutor", 5));
         RedissonNode node = RedissonNode.create(nodeConfig);

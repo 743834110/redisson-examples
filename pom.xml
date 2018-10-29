@@ -28,6 +28,7 @@
         <module>locks-synchronizers-examples</module>
         <module>objects-examples</module>
         <module>services-examples</module>
+        <module>topic-examples</module>
     </modules>
 
     <dependencies>

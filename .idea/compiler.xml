@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="collections-examples" />
+        <module name="locks-synchronizers-examples" />
+        <module name="objects-examples" />
+        <module name="services-examples" />
+        <module name="topic-examples" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="collections-examples" target="1.8" />
+      <module name="locks-synchronizers-examples" target="1.8" />
+      <module name="objects-examples" target="1.8" />
+      <module name="redisson-examples" target="1.8" />
+      <module name="services-examples" target="1.8" />
+      <module name="topic-examples" target="1.8" />
+      <module name="topicexamples" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
